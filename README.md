@@ -1,9 +1,5 @@
 # WDI
 
-Zadania z ćwiczeń i kolokwiów z roku 2020/21 oraz część z poprzednich lat
+Exercises from Introduction to the Computer Science classes and tests from 2020/21 year and some previous years as well
 
-Wymagane uporządkowanie i poprawienie części zadań
-
-W większości zadań kod jest obrzydliwy, część zadań jest niedokończona lub błędna (taki urok początków kodzenia)
-
-Treści zadań dostępne na wiki
+The quality of code is not the best (everyone starts somewhere) and some solutions might be wrong or unfinished
