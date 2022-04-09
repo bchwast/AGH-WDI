@@ -1,5 +1,5 @@
-# PI
+# WDI
 
-Exercises from Imperative Programming labs from 2020/21 year
+Exercises from Introduction to the Computer Science classes and tests from 2020/21 year and some previous years as well
 
-Solutions passed all the tests on OIOIOI with 100, except for ban.c which got 80
+The quality of code is not the best (everyone starts somewhere) and some solutions might be wrong or unfinished
